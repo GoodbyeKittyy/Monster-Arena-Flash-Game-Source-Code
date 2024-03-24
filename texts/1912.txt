@@ -1,0 +1,19 @@
+higher
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+AGILITY
+--- RECORDSEPARATOR ---
+ increase 
+--- RECORDSEPARATOR ---
+your chance of 
+--- RECORDSEPARATOR ---
+evading an attack, 
+--- RECORDSEPARATOR ---
+and increases 
+--- RECORDSEPARATOR ---
+the recharging
+--- RECORDSEPARATOR ---
+rate of your 
+--- RECORDSEPARATOR ---
+energy bar

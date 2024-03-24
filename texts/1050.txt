@@ -1,0 +1,11 @@
+INTELLIGENCE
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+define your 
+--- RECORDSEPARATOR ---
+critical rate, accuration, 
+--- RECORDSEPARATOR ---
+experience rate gained in 
+--- RECORDSEPARATOR ---
+combat, and magic effect

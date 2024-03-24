@@ -1,0 +1,3 @@
+Auto revive when death 
+--- RECORDSEPARATOR ---
+with 30% health

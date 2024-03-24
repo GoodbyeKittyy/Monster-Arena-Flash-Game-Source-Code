@@ -1,0 +1,7 @@
+POWER
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+effect the damage 
+--- RECORDSEPARATOR ---
+you deal to opponents while

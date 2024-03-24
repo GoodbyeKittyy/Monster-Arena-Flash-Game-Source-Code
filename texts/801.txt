@@ -1,0 +1,5 @@
+incinerate 
+--- RECORDSEPARATOR ---
+opponent
+--- RECORDSEPARATOR ---
+using magma ball

@@ -1,0 +1,3 @@
+Your monster dig up and 
+--- RECORDSEPARATOR ---
+found an item!

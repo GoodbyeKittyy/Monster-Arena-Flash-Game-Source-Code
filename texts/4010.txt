@@ -1,0 +1,3 @@
+reduces damage
+--- RECORDSEPARATOR ---
+done by opponent

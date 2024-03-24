@@ -1,0 +1,13 @@
+activities such as :
+--- RECORDSEPARATOR ---
+- joining a cup (if available),
+--- RECORDSEPARATOR ---
+- training
+--- RECORDSEPARATOR ---
+- skipping week
+--- RECORDSEPARATOR ---
+will cost a week,
+--- RECORDSEPARATOR ---
+so make your decision 
+--- RECORDSEPARATOR ---
+carefully!

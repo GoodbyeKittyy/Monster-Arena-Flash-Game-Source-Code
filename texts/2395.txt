@@ -1,0 +1,7 @@
+Click the left mouse button to jump
+--- RECORDSEPARATOR ---
+and move with arrowkeys or AD
+--- RECORDSEPARATOR ---
+Status gained will be determined by
+--- RECORDSEPARATOR ---
+distances reached

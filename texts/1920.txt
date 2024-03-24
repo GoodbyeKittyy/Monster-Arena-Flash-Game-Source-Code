@@ -1,0 +1,9 @@
+this is the calendar 
+--- RECORDSEPARATOR ---
+that shows the cup
+--- RECORDSEPARATOR ---
+schedule and 
+--- RECORDSEPARATOR ---
+your current 
+--- RECORDSEPARATOR ---
+week

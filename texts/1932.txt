@@ -1,0 +1,13 @@
+the shop sell two types 
+--- RECORDSEPARATOR ---
+of items :
+--- RECORDSEPARATOR ---
+- in-battle items can be used 
+--- RECORDSEPARATOR ---
+during battle,
+--- RECORDSEPARATOR ---
+- in-training item 
+--- RECORDSEPARATOR ---
+increases your stats 
+--- RECORDSEPARATOR ---
+for the next training

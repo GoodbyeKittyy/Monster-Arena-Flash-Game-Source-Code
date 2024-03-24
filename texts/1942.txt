@@ -1,0 +1,5 @@
+Dont forget to use 
+--- RECORDSEPARATOR ---
+the "in-training item" 
+--- RECORDSEPARATOR ---
+to gain it's effects.

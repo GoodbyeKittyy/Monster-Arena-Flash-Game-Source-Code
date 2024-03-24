@@ -1,0 +1,5 @@
+your current week 
+--- RECORDSEPARATOR ---
+is shown with 
+--- RECORDSEPARATOR ---
+white border

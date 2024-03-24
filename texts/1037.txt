@@ -1,0 +1,3 @@
+you need to equip
+--- RECORDSEPARATOR ---
+battle-item to use it

@@ -1,0 +1,3 @@
+Power +10%
+--- RECORDSEPARATOR ---
+Armor +10%

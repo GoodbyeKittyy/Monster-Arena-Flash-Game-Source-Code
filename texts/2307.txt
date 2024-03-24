@@ -1,0 +1,11 @@
+Click the right key between 
+--- RECORDSEPARATOR ---
+A,S,D,J,K,L,
+--- RECORDSEPARATOR ---
+to block launched boulder
+--- RECORDSEPARATOR ---
+Status gained will be determined by
+--- RECORDSEPARATOR ---
+blocked boulder, every wrong key will 
+--- RECORDSEPARATOR ---
+reduce your point by one.

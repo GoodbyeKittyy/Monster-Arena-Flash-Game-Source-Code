@@ -1,0 +1,3 @@
+using equipped battle 
+--- RECORDSEPARATOR ---
+item need no energy point

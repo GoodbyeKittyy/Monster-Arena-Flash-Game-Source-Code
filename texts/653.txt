@@ -1,0 +1,3 @@
+Absorb 10% damage and add 
+--- RECORDSEPARATOR ---
+them to health

@@ -1,0 +1,13 @@
+DISCIPLINE
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+mood will 
+--- RECORDSEPARATOR ---
+increases the maximum 
+--- RECORDSEPARATOR ---
+status gained by the 
+--- RECORDSEPARATOR ---
+monster during any 
+--- RECORDSEPARATOR ---
+training

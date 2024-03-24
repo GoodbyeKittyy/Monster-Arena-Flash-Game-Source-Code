@@ -1,0 +1,3 @@
+damage opponent
+--- RECORDSEPARATOR ---
+using fiery roll

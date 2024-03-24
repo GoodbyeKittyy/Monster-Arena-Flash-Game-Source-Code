@@ -1,0 +1,3 @@
+Battle assistant that use fire 
+--- RECORDSEPARATOR ---
+claw to damage enemy monster

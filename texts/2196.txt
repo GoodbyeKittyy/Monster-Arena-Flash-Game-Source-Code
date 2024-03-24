@@ -1,0 +1,1 @@
+RedzillaEnergy bar recharge rate : Critical rate : Dodge rate :Damage resistance :Double attack rate :Health regeneration rate :Poisoning enemy rate :Stunning enemy rate :Revive rate :

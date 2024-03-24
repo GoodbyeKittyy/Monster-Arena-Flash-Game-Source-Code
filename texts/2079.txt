@@ -1,0 +1,3 @@
+joining cup will removes the
+--- RECORDSEPARATOR ---
+current in-training item effect,

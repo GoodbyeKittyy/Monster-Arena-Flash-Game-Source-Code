@@ -1,0 +1,1 @@
+activity point cost : 1

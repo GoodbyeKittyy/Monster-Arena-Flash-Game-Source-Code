@@ -1,0 +1,5 @@
+Battle assistant that fires 
+--- RECORDSEPARATOR ---
+icebolt to enemy to slow enemy 
+--- RECORDSEPARATOR ---
+monster

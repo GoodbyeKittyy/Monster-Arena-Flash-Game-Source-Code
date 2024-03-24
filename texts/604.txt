@@ -1,0 +1,3 @@
+lower opponent 
+--- RECORDSEPARATOR ---
+recharge rate

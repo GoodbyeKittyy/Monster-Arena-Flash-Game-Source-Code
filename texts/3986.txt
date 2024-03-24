@@ -1,0 +1,3 @@
+- slower recharge -
+--- RECORDSEPARATOR ---
+- dodge ratio decrease -

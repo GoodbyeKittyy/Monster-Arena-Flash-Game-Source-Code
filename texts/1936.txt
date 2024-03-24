@@ -1,0 +1,7 @@
+now let's buy something 
+--- RECORDSEPARATOR ---
+that Cebolla's 
+--- RECORDSEPARATOR ---
+favorite,
+--- RECORDSEPARATOR ---
+click the BANANA

@@ -1,0 +1,9 @@
+monster stats will 
+--- RECORDSEPARATOR ---
+automatically 
+--- RECORDSEPARATOR ---
+increase
+--- RECORDSEPARATOR ---
+everytime your
+--- RECORDSEPARATOR ---
+monster levels up

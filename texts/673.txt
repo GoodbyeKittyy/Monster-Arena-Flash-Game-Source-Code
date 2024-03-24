@@ -1,0 +1,3 @@
+Battle assistant that fires 
+--- RECORDSEPARATOR ---
+bolt to enemy monster

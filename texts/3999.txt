@@ -1,0 +1,3 @@
+critical chance
+--- RECORDSEPARATOR ---
+increasing by 20%

@@ -1,0 +1,3 @@
+increase attack
+--- RECORDSEPARATOR ---
+damage

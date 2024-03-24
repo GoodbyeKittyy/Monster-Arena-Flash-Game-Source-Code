@@ -1,0 +1,1 @@
+POW +1DEF +1AGI +1INT +1EXP +1

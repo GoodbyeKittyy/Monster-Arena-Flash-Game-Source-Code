@@ -1,0 +1,3 @@
+blast opponent
+--- RECORDSEPARATOR ---
+using fire ball

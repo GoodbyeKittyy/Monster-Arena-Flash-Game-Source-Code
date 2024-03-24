@@ -1,0 +1,3 @@
+evade all 
+--- RECORDSEPARATOR ---
+opponent attack

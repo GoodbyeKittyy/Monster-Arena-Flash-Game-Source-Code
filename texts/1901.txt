@@ -1,0 +1,5 @@
+this panel shows 
+--- RECORDSEPARATOR ---
+information about
+--- RECORDSEPARATOR ---
+your monster

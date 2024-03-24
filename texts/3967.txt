@@ -1,0 +1,5 @@
+- faster recharge -
+--- RECORDSEPARATOR ---
+- critical ratio increase -
+--- RECORDSEPARATOR ---
+- dodge ratio increase -

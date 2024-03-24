@@ -1,0 +1,9 @@
+Win the battle by 
+--- RECORDSEPARATOR ---
+defeating the hostile monster
+--- RECORDSEPARATOR ---
+Status gained based on 
+--- RECORDSEPARATOR ---
+enemy status, if your monster 
+--- RECORDSEPARATOR ---
+wins the battle

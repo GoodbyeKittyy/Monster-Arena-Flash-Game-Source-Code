@@ -1,0 +1,5 @@
+swap current HP 
+--- RECORDSEPARATOR ---
+percentage between 
+--- RECORDSEPARATOR ---
+you and the opponent

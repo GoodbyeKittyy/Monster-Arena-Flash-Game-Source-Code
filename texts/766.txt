@@ -1,0 +1,3 @@
+lower opponent's
+--- RECORDSEPARATOR ---
+attack damage

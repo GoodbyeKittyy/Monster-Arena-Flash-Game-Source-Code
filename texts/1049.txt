@@ -1,0 +1,17 @@
+higher
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+AGILITY
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+increase 
+--- RECORDSEPARATOR ---
+monster likehood to evading 
+--- RECORDSEPARATOR ---
+an attack, it also
+--- RECORDSEPARATOR ---
+ increases the recharging 
+--- RECORDSEPARATOR ---
+rate of your energy bar

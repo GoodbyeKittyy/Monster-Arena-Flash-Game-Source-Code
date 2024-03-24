@@ -1,0 +1,5 @@
+a monster was 
+--- RECORDSEPARATOR ---
+spotted nearby!
+--- RECORDSEPARATOR ---
+do you want to engage it?

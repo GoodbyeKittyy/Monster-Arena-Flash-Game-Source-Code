@@ -1,0 +1,3 @@
+suffer poison
+--- RECORDSEPARATOR ---
+ damage everytime

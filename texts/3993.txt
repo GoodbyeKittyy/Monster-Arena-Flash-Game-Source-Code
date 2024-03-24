@@ -1,0 +1,7 @@
+[MAGIC]
+--- RECORDSEPARATOR ---
+ skill 
+--- RECORDSEPARATOR ---
+effect decreased
+--- RECORDSEPARATOR ---
+- critical ratio decrease -

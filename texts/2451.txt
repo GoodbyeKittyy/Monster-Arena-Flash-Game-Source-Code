@@ -1,0 +1,7 @@
+Choose between rock, sccisors, and 
+--- RECORDSEPARATOR ---
+paper to beat enemy symbol 
+--- RECORDSEPARATOR ---
+Status gained will be determined by
+--- RECORDSEPARATOR ---
+total win

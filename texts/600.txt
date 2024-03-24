@@ -1,0 +1,5 @@
+summon companion
+--- RECORDSEPARATOR ---
+to attack opponent
+--- RECORDSEPARATOR ---
+together

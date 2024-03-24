@@ -1,0 +1,13 @@
+INTELLIGENCE
+--- RECORDSEPARATOR ---
+ defines your 
+--- RECORDSEPARATOR ---
+critical hit rate, 
+--- RECORDSEPARATOR ---
+accuracy, 
+--- RECORDSEPARATOR ---
+experience rate 
+--- RECORDSEPARATOR ---
+and 
+--- RECORDSEPARATOR ---
+magic attack

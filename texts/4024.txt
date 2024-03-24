@@ -1,0 +1,3 @@
+revive monster
+--- RECORDSEPARATOR ---
+when defeated

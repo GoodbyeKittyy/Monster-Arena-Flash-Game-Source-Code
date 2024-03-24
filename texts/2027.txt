@@ -1,0 +1,3 @@
+In-training inventory 
+--- RECORDSEPARATOR ---
+is full

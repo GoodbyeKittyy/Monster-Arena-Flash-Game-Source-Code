@@ -1,0 +1,5 @@
+[MAGIC]
+--- RECORDSEPARATOR ---
+ skill 
+--- RECORDSEPARATOR ---
+effect increased

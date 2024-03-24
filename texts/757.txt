@@ -1,0 +1,5 @@
+Elgi increases 
+--- RECORDSEPARATOR ---
+his size 
+--- RECORDSEPARATOR ---
+by 0.21855598262%

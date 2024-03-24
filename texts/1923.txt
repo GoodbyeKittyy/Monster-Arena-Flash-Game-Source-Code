@@ -1,0 +1,15 @@
+as you know :
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+- each year consists of twelve 
+--- RECORDSEPARATOR ---
+months, 
+--- RECORDSEPARATOR ---
+- each month cosists of
+--- RECORDSEPARATOR ---
+four weeks. 
+--- RECORDSEPARATOR ---
+-Season will change 
+--- RECORDSEPARATOR ---
+every three months

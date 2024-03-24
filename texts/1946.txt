@@ -1,0 +1,31 @@
+the bar below represents your 
+--- RECORDSEPARATOR ---
+monster's mood, 
+--- RECORDSEPARATOR ---
+- the
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+GREEN
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+area means
+--- RECORDSEPARATOR ---
+ a 
+--- RECORDSEPARATOR ---
+spoiled
+--- RECORDSEPARATOR ---
+ mood
+--- RECORDSEPARATOR ---
+- the 
+--- RECORDSEPARATOR ---
+RED
+--- RECORDSEPARATOR ---
+ area means
+--- RECORDSEPARATOR ---
+ a 
+--- RECORDSEPARATOR ---
+discipline
+--- RECORDSEPARATOR ---
+ mood

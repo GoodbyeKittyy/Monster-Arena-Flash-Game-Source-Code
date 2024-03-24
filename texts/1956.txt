@@ -1,0 +1,9 @@
+now let's get back to 
+--- RECORDSEPARATOR ---
+training,
+--- RECORDSEPARATOR ---
+click the 
+--- RECORDSEPARATOR ---
+"Train mode" 
+--- RECORDSEPARATOR ---
+button

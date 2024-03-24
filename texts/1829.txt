@@ -1,0 +1,3 @@
+make monster
+--- RECORDSEPARATOR ---
+obey you
