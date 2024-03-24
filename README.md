@@ -2,7 +2,7 @@
 ![image](https://github.com/GoodbyeKittyy/Monster-Arena-Flash-Game-Source-Code/assets/161730857/28ac00d9-319a-46e7-981c-8431c7b8524b)
 
 
-Monster Arena is a flash game made in 2015 by Indonesian independent game developer LittleGiantWorld. It features a colourful pixelated art style with a cast of several humans and many original monsters.<br><br>
+Monster Arena is an online 2D Flash WesternRPG/SimulationGame hybrid developed by LittleGiantWorld released in 2011. It features a colourful pixelated art style with a cast of several humans and many original monsters.<br><br>
 
 ## Game Introduction
 
